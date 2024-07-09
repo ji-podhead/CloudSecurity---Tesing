@@ -1,4 +1,4 @@
-# CloudSecurity-&-Testing
+# CloudSecurity & Testing
 
 - my firefox k8s bookmark folder grew so large that i decided to create a public list from this
 
