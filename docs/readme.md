@@ -21,11 +21,7 @@
 ## Cloud  & IAC Security 
 - 1 [***Attack Vectors***](https://ji-podhead.github.io/Web-And-CloudSecurity/AttackVectors/#cloud-bases-attack-vectors)
 - 2 [***Tools***](https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity/Tools)
-<<<<<<< HEAD
-- 3 [***Continous Monitoring 🚧***](https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity/Monitoring) 
-=======
 - 3 [***Continous Monitoring***](https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity/Monitoring) 
->>>>>>> 67fd726b4f24eec1d83b314f828c42472b078ce9
 	
 
 
