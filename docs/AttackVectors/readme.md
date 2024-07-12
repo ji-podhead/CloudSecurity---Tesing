@@ -138,7 +138,6 @@ Cloud providers continuously update their services, introducing new features whi
 ---
 
 
-## Attacks
 
 ## Enumeration
 ![lock](https://m.media-amazon.com/images/G/31/apparel/rcxgs/tile._CB483369979_.gif) 
