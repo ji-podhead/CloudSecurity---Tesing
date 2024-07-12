@@ -1,25 +1,17 @@
-# Web And Cloud Security
 
 <div align="center">
       <img src="https://github.com/ji-podhead/ji-podhead/blob/main/logo.jpg?raw=true" align="right" width="100" />
 </div>
 
-| [WebSecurity](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurity) | [CloudSecurity](https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity) |
-
-
-
-----
-
-## Web Security
-
- [Attack Vectors](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurityAttack_Vectors)| [Attack Types](https://ji-podhead.github.io/Security/Attack_Types) |  [Tools](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurityTools) |  [Analysis & Forensic](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurityAnalysis) | 
- 
+| [WebSecurity](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurity/) | [CloudSecurity](https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity) |
 
 
 ---
 
 
-### Attack Vectors
+
+
+## Attack Vectors
 
 ***Badly Configured Networks and Lack of Network Policies***: Poorly configured networks and the absence of robust network security policies leave systems vulnerable to various cyber threats. Without proper configuration, networks may expose unnecessary services, leaving them open to exploitation. Similarly, without clear security policies, there's a higher chance of misconfigurations and unsecured practices among users.
 
@@ -49,9 +41,8 @@
 
 ***Unvalidated Redirects and Forwards***: Web applications that do not validate redirects and forwards can be manipulated to send users to malicious websites, leading to phishing attacks or session hijacking.
 
-***Local File Inclusion (LFI) and Remote File Inclusion (RFI)
-
-***: LFI and RFI vulnerabilities allow attackers to include local or remote files within web pages, enabling them to read sensitive files or execute arbitrary code.
+***Local File Inclusion (LFI) and Remote File Inclusion (RFI):***
+LFI and RFI vulnerabilities allow attackers to include local or remote files within web pages, enabling them to read sensitive files or execute arbitrary code.
 
 ***Possible Command & SQL Injection***: Command injection vulnerabilities allow attackers to execute arbitrary commands on the host operating system, while SQL injection allows attackers to manipulate SQL queries, potentially accessing or modifying sensitive data.
 

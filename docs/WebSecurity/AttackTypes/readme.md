@@ -1,19 +1,17 @@
-# Web And Cloud Security
 
 <div align="center">
       <img src="https://github.com/ji-podhead/ji-podhead/blob/main/logo.jpg?raw=true" align="right" width="100" />
 </div>
 
-| [WebSecurity](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurity) | [CloudSecurity](https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity) |
+| [WebSecurity](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurity/) | [CloudSecurity](https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity) |
 
 
 
-----
 
-## Web Security
- | [Attack Vectors](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurityAttack_Vectors)| [Attack Types](https://ji-podhead.github.io/Security/Attack_Types) |  [Tools](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurityTools) |  [Analysis & Forensic](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurityAnalysis) | 
+# Web Security
+
+ [Attack Vectors](https://ji-podhead.github.io/Web-And-CloudSecurity/AttackVectors/)| [Attack Types](https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/Attack_Types) |  [Tools](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurityTools) |  [Analysis & Forensic](https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/webSecurityAnalysis) | 
  
-
 
 
 ---
