@@ -11,7 +11,8 @@
 ----
 
 ## Web Security
- | [Attack Vectors](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurityAttack_Vectors)| [Attack Types](https://ji-podhead.github.io/Security/Attack_Types) |  [Tools](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurityTools) |  [Analysis & Forensic](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurityAnalysis) | 
+
+ [Attack Vectors](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurityAttack_Vectors)| [Attack Types](https://ji-podhead.github.io/Security/Attack_Types) |  [Tools](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurityTools) |  [Analysis & Forensic](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurityAnalysis) | 
  
 
 
@@ -21,29 +22,55 @@
 ### Attack Vectors
 
 ***Badly Configured Networks and Lack of Network Policies***: Poorly configured networks and the absence of robust network security policies leave systems vulnerable to various cyber threats. Without proper configuration, networks may expose unnecessary services, leaving them open to exploitation. Similarly, without clear security policies, there's a higher chance of misconfigurations and unsecured practices among users.
+
 ***Wiretapping***: Interception of communication traffic involves capturing and potentially analyzing private communications between parties. This can occur over various mediums like phone calls, emails, or internet traffic. Techniques used can range from simple eavesdropping to sophisticated man-in-the-middle attacks.
+
 ***IoT Devices, Printers and Other Devices***: Internet of Things (IoT) devices, printers, and other peripherals connected to a network can pose significant security risks if not properly secured. These devices often run on outdated firmware, lack strong authentication mechanisms, and may communicate over insecure channels, providing entry points for attackers.
+
 ***Open Server Ports***: Leaving server ports open without proper security measures exposes servers to potential attacks. Attackers can scan open ports to find vulnerabilities, allowing them to exploit weaknesses and gain unauthorized access to the system.
+
 ***Insecure Protocols***: Using outdated or insecure communication protocols can expose data to interception and manipulation. Secure protocols encrypt data in transit, protecting it from being read by unauthorized parties.
+
 ***Exposure of Sensitive Data***: Insecure exposure of sensitive data, such as personal information or financial details, can result from poor data handling practices. This includes storing data in plaintext, failing to encrypt sensitive information, or improperly configuring database access controls.
+
 ***Authentication Vulnerabilities***: Weaknesses in authentication mechanisms can allow attackers to impersonate legitimate users or bypass security controls. Common vulnerabilities include weak passwords, outdated authentication protocols, and insufficient multi-factor authentication (MFA).
+
 ***Outdated Components***: Keeping software and hardware components up-to-date is crucial for maintaining security. Outdated components may contain known vulnerabilities that attackers can exploit, posing a significant risk to the overall security posture.
+
 ***Inadequate Logging and Monitoring***: Without adequate logging and monitoring, detecting and responding to security incidents can be challenging. Logs provide valuable insights into network activity, while monitoring tools can alert administrators to suspicious behavior in real-time.
+
 ***Missing DNS & DHCP Protection***: DNS and DHCP services are critical for network operation but can be exploited if not properly secured. Attackers may attempt to redirect traffic to malicious sites or spoof IP addresses, compromising network integrity and user trust.
+
 ***Possible API Abuse***: APIs offer powerful interfaces for interacting with applications and services. However, they can be abused if not properly secured, leading to unauthorized data access, service disruption, or even data loss.
+
 ***Insufficient Rate Limiting***: Without sufficient rate limiting, servers can become overwhelmed by excessive requests, leading to denial-of-service (DoS) attacks or exposing the system to brute-force attempts.
+
 ***Possible Buffer Overflow***: Buffer overflow vulnerabilities occur when a program writes more data to a fixed-length block of memory than it can hold, potentially overwriting adjacent memory and executing arbitrary code.
+
 ***Unvalidated Redirects and Forwards***: Web applications that do not validate redirects and forwards can be manipulated to send users to malicious websites, leading to phishing attacks or session hijacking.
-***Local File Inclusion (LFI) and Remote File Inclusion (RFI)***: LFI and RFI vulnerabilities allow attackers to include local or remote files within web pages, enabling them to read sensitive files or execute arbitrary code.
+
+***Local File Inclusion (LFI) and Remote File Inclusion (RFI)
+
+***: LFI and RFI vulnerabilities allow attackers to include local or remote files within web pages, enabling them to read sensitive files or execute arbitrary code.
+
 ***Possible Command & SQL Injection***: Command injection vulnerabilities allow attackers to execute arbitrary commands on the host operating system, while SQL injection allows attackers to manipulate SQL queries, potentially accessing or modifying sensitive data.
+
 ***Possible Cross Site Scripting (XSS)***: XSS vulnerabilities enable attackers to inject malicious scripts into web pages viewed by other users, potentially stealing cookies, session tokens, or other sensitive information.
+
 ***No Email Scanning against Phishing and Man in The Middle Attacks***: Failing to implement email scanning for phishing and man-in-the-middle attacks leaves users vulnerable to credential theft and other forms of identity fraud.
+
 ***Session Hijacking***: Session hijacking occurs when an attacker intercepts and takes control of a user's active session, typically by stealing session identifiers or cookies.
+
 ***Bad Encryption***: Poor encryption practices can weaken the security of encrypted data, making it susceptible to decryption by attackers who possess sufficient computational resources.
+
 ***Man-in-the-Middle (MitM) Attacks***: MitM attacks involve intercepting and potentially altering the communication between two parties without their knowledge, allowing attackers to steal data or alter communications.
+
 ***SSL Snooping***: SSL snooping, also known as SSL interception, involves the interception of encrypted SSL/TLS traffic between a client and a server. By decrypting the SSL traffic, attackers can analyze the content of the communication, potentially extracting sensitive information such as usernames, passwords, or payment details. This technique requires the attacker to have access to the network path between the client and the server, often achieved through man-in-the-middle (MitM) attacks or compromised network infrastructure.
+
 ***Social Engineering***: Social engineering exploits human behavior to trick individuals into divulging confidential information or performing actions that benefit the attacker. This can take many forms, including phishing emails, pretexting, baiting, and quid pro quo. Awareness training and secure communication practices are key defenses against social engineering attacks.
+
 ***Software Supply Chain Attacks***: In these attacks, software components within the supply chain are manipulated to gain unauthorized access or embed malware. This can happen at any stage of the development process, from the initial coding phase to distribution. Ensuring the integrity and authenticity of all software components throughout the supply chain is crucial for preventing these attacks.
+
 ***Mobile Device Security***: Smartphones and tablets often serve as attack vectors due to the security flaws in apps or the underlying operating systems. Malicious apps can steal data, spy on user activities, or act as bots in DDoS attacks. Regular updates, careful app selection, and security settings adjustments are important for securing mobile devices.
 
 
@@ -52,7 +79,9 @@
 ## Cloud bases Attack Vectors
 
 ***Misconfigured Cloud Services***: Often, cloud services are not properly configured, leading to security vulnerabilities. Incorrect configurations can expose sensitive data, leave services accessible to unauthorized users, or create pathways for attackers to infiltrate the network. Proper configuration and regular audits are essential to mitigate these risks.
+
 ### Misconfigured IAM Policies
+
 Identity and Access Management (IAM) policies play a critical role in controlling who has access to resources within a cloud environment. However, misconfigured IAM policies can inadvertently grant excessive privileges to users or services, leading to unauthorized access and potential data breaches.
 ***Risks Associated with Misconfigured IAM Policies***
 - **Unauthorized Access**: Incorrectly configured IAM policies may allow unauthorized individuals or services to gain access to sensitive resources.
@@ -62,7 +91,9 @@ Identity and Access Management (IAM) policies play a critical role in controllin
 - **Least Privilege Principle**: Grant only the necessary permissions required for a user or service to perform its function.
 - **Regular Audits**: Periodically review and audit IAM policies to identify and rectify any misconfigurations.
 - **Use of IAM Policies**: Leverage IAM policies to enforce fine-grained access controls at the resource level.
+
 ### Unsecured Kubernetes Secrets
+
 Kubernetes, widely used for orchestrating containerized applications, relies heavily on secrets for managing credentials and other sensitive information. However, improperly securing these secrets can lead to significant security risks.
 ***Risks Associated with Unsecured Kubernetes Secrets***
 - **Credential Theft**: Malicious actors can steal credentials stored in plaintext, leading to unauthorized access to systems and data.
@@ -74,6 +105,7 @@ Kubernetes, widely used for orchestrating containerized applications, relies hea
 - **Access Controls**: Implement strict access controls to limit who can view or modify secrets.
 
 ### Deprecated Cloud Features
+
 Cloud providers continuously update their services, introducing new features while deprecating older ones. Using deprecated features can expose applications to vulnerabilities as support ends and security patches are no longer provided.
 ***Risks Associated with Using Deprecated Features***
 - **Vulnerability Exposure**: Deprecated features often contain known security flaws that are not patched, making them attractive targets for attackers.
@@ -82,7 +114,9 @@ Cloud providers continuously update their services, introducing new features whi
 ***Best Practices for Managing Deprecated Features***
 - **Plan for Migration**: Develop a migration plan well ahead of the deprecation date to minimize disruptions and ensure a smooth transition to supported features.
 - **Automate Where Possible**: Automate the process of identifying and migrating away from deprecated features where feasible.
+
 ### Denial of Wallet Attack
+
 **Best Practices for Preventing Denial of Wallet Attacks**
 - **Use Reputable Providers**: Choose cryptocurrency wallet providers known for their security and reliability.
 - **Enable Two-Factor Authentication (2FA)**: Adding an extra layer of security through 2FA can significantly reduce the risk of unauthorized access.
@@ -107,14 +141,15 @@ Cloud providers continuously update their services, introducing new features whi
 - **Log and Monitor**: Keep logs of rate-limiting events and monitor them for signs of malicious activity or attempted attacks.
 - **Fallback Strategies**: Have fallback strategies in place, such as CAPTCHA challenges or manual intervention, for cases where automated responses are not effective.
 - **Documentation and Training**: Document the purpose and implementation of rate limiting and train staff on how to respond appropriately to rate-limiting errors.
----
 
 ---
 
 
 ## Attacks
+
 ## Enumeration
 ![lock](https://m.media-amazon.com/images/G/31/apparel/rcxgs/tile._CB483369979_.gif) 
+
 Enumeration refers to the systematic exploration of an environment to collect information that can be used for subsequent attacks. Almost any potential attack vector originates from improperly configured permissions and the absence of adequate security measures. 
 It's crucial to ensure that zone forwarding is restricted to specific servers and that DNSSEC is definitely activated. Moreover, no one should be able to probe your critical infrastructure, as these directories should not even be visible to potential attackers.
 
@@ -130,16 +165,20 @@ It's crucial to ensure that zone forwarding is restricted to specific servers an
 - SQL Injection
 - Path Traversal
 - Brute Force (e.g., forms)
+
 ### Denial of Service (DoS) and Distributed Denial of Service (DDoS)
+
 Denial of Service (DoS) and Distributed Denial of Service (DDoS) attacks aim to make a machine or network resource unavailable to its intended users by overwhelming the target or its surrounding infrastructure with a flood of internet traffic. The reason for a DDoS can vary based on what you want to do (eg. DNS Cache Poisening)
 
 #### Common Techniques
+
 	- IP Address Spoofing
 	- Packet Flooding
 	- SYN Floods
 	- Application Layer Attacks
 	
 ## Cross-Site Scripting (XSS)
+
 Uses client side Browser to implement malicous code.
 For example  the comment section in a forum could be used to run code using`<script>` tag.
 ***Forms of XXS***
