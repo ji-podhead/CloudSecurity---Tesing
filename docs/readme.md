@@ -16,4 +16,12 @@
 - 3 [***Tools***](https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/Tools)
 	- Tools for Pentesting, Forensic and Protection
 
+## Cloud Security (SecOps)
+- 1 [***Attack Vectors***](https://ji-podhead.github.io/Web-And-CloudSecurity/AttackVectors/#cloud-bases-attack-vectors)
+- 2 [***Tools***](https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity/Tools)
+	- Tools for Pentesting, Forensic and Protection
+- 3 [***Continous Monitoring & SIEM 🚧***](https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity/Monitoring) 
+	
+
+
 ---
