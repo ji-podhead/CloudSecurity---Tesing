@@ -1,6 +1,6 @@
 
 
-| [WebSecurity](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurity/) | [CloudSecurity](https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity) |
+| [WebSecurity](https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/) | [CloudSecurity](https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity) |
 
 
 <div align="center">
