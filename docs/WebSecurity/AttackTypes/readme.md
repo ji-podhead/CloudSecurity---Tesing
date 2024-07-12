@@ -10,7 +10,7 @@
 
 # Web Security
 
- [Attack Vectors](https://ji-podhead.github.io/Web-And-CloudSecurity/AttackVectors/)| [Attack Types](https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/Attack_Types) |  [Tools](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurityTools) |  [Analysis & Forensic](https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/webSecurityAnalysis) | 
+ [Attack Vectors](https://ji-podhead.github.io/Web-And-CloudSecurity/AttackVectors/)| [Attack Types](https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/Attack_Types) |  [Tools](https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/Tools) |  [Analysis & Forensic](https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/WebSecurity/Analysis) | 
  
 
 

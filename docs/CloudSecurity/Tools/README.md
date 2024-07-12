@@ -11,7 +11,7 @@
 
 ## Cloud Security 
 
- | [Attack Vectors](https://ji-podhead.github.io/Web-And-CloudSecurity/Attack_Vectors)| [Attack Types](https://ji-podhead.github.io/Security/Attack_Types) |  [Tools](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurityTools) |  [Analysis & Forensic](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurityAnalysis) | 
+ | [Attack Vectors](https://ji-podhead.github.io/Web-And-CloudSecurity/Attack_Vectors)| [Attack Types](https://ji-podhead.github.io/Security/Attack_Types) |  [Tools](https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/Tools) |  [Analysis & Forensic](https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/Analysis) | 
  
 
 

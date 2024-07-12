@@ -1,6 +1,6 @@
 
 
-| [WebSecurity](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurity/) | [CloudSecurity](https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity) |
+| [WebSecurity](https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/) | [CloudSecurity](https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity) |
 
 
 
@@ -12,8 +12,8 @@
 
 ## Web Security
 - 1 [***Attack Vectors***](https://ji-podhead.github.io/Web-And-CloudSecurity/AttackVectors)
-- 2 [***Attack Types***](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurity/AttackTypes)
-- 3 [***Tools***](https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurity/Tools)
+- 2 [***Attack Types***](https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/AttackTypes)
+- 3 [***Tools***](https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/Tools)
 	- Tools for Pentesting, Forensic and Protection
 
 ---
