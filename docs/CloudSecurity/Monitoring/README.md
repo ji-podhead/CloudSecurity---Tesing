@@ -11,10 +11,10 @@
         <td><a href="https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/AttackTypes">
 <div><b>Attacks </b></div>
 </a></td>
-        <td><a href="https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurityTools">
+        <td><a href="https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/Tools">
 <div><b>Tools </b></div>
 </a></td>
-        <td><a href="https://ji-podhead.github.io/Web-And-CloudSecurity/webSecurityTools">
+        <td><a href="https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity">
 <div><b>Monitoring&Forensic🚧</b></div>
 </a></td>
       </tr>
@@ -29,11 +29,10 @@
         <td><a href="https://ji-podhead.github.io/Web-And-CloudSecurity/AttackVectors/#cloud-bases-attack-vectors">
 <div><b>Attack Vectors</b></div>
 </a></td>
-       <td><a href="https://ji-podhead.github.io/Web-And-CloudSecurity/AttackVectors/#cloud-bases-attack-vectors">
+       <td><a href="https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity/Tools">
 <div><b>Tools</b></div>
 </a></td>
-               <td><a href="https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity/Monitoring
-               ">
+               <td><a href="https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity/Monitoring/">
 <div><b>Continious Monitoring 🚧</b></div>
 </a></td>
       </tr>
