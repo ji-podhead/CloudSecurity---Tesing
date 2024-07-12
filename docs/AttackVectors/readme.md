@@ -3,7 +3,9 @@
 | [WebSecurity](https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/) | [CloudSecurity](https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity/) |
 
 <div align="center">
+    <a href="https://github.com/ji-podhead">  
       <img src="https://github.com/ji-podhead/ji-podhead/blob/main/logo.jpg?raw=true" align="right" width="50" />
+</a>
 </div>
 
 ---
@@ -156,93 +158,4 @@ It's crucial to ensure that zone forwarding is restricted to specific servers an
 - SQL Injection
 - Path Traversal
 - Brute Force (e.g., forms)
-
-### Denial of Service (DoS) and Distributed Denial of Service (DDoS)
-
-Denial of Service (DoS) and Distributed Denial of Service (DDoS) attacks aim to make a machine or network resource unavailable to its intended users by overwhelming the target or its surrounding infrastructure with a flood of internet traffic. The reason for a DDoS can vary based on what you want to do (eg. DNS Cache Poisening)
-
-#### Common Techniques
-
-	- IP Address Spoofing
-	- Packet Flooding
-	- SYN Floods
-	- Application Layer Attacks
-	
-## Cross-Site Scripting (XSS)
-
-Uses client side Browser to implement malicous code.
-For example  the comment section in a forum could be used to run code using`<script>` tag.
-***Forms of XXS***
-	- ***Stored XSS***
->	> Stored XSS involves injecting malicious code into a website that executes every time a visitor accesses it.
-	- ***Reflected XSS***
->	> Reflected XSS occurs when malicious code is passed through the URL and executed upon page load.
-	- ***DOM-Based XSS***
->	> DOM-Based XSS exploits vulnerabilities in how a Wegpage manipulates its Document Object Model (DOM), allowing execution of malicious code.
-
-
-
-
-
-
-
-
-
-
-## SQL Injection
-***Blind SQL Injection***
-Blind SQL Injection involves making requests that cause the website to react without the user being aware, often by analyzing responses.
-***Error-based SQL Injection***
-Error-based SQL Injection leverages error messages returned by the website to gather information about the database structure.
-
-### Nonces and CSRF Tokens
-Explain how modern web applications prevent CSRF attacks using nonces and CSRF tokens.
-***CSRF Token Sniffing***
-Describe how an attacker might attempt to intercept CSRF tokens for malicious purposes.
-
-### IDOR via Direct Object References
-Explain how an attacker could potentially access sensitive data by exploiting direct references in URLs or other public parts of the application.
-
-
-### XXE Attacks
-Describe how XXE attacks work and how they can be used to exfiltrate sensitive data or compromise services.
-
-### SSRF (Server-Side Request Forgery)
-In SSRF attacks, an attacker can trick the server into making requests to internal systems or services, leading to security breaches.
-
-
-### Path Traversal
-Path Traversal attacks enable an attacker to navigate outside intended paths on the server, leading to file read, write, or delete operations.
-
-### Clickjacking
-Clickjacking tricks a user into clicking something while intending to click something else, resulting in unexpected actions.
-
-### Session Hijacking
-Session Hijacking attacks steal a user's authenticated status by capturing and misusing session IDs.
-
-### Man-in-the-Middle Attacks
-MitM attacks eavesdrop and manipulate the communication path between two parties, leading to data leaks or manipulation.
-
-### Cache Poisoning
-Cache Poisoning manipulates a system's cache to deliver false or counterfeit responses, causing errors or security breaches.
-
-### Timing Attacks
-Timing attacks exploit the time taken to respond to a request to gain information about the system or database.
-
-### Local File Inclusion (LFI) / Remote File Inclusion (RFI)
-These attacks allow an attacker to read or execute files by manipulating path inputs.
-
-### Content Spoofing
-Content Spoofing presents falsified content to deceive users or prompt them to perform malicious actions.
-
-### Directory Traversal
-Similar to Path Traversal, this attack enables navigation outside intended paths on the server, leading to file manipulations.
-
-### Side Channel Attacks
-Describe various types of side channel attacks, including how they are conducted and their impact on security.
-
-
- 
- 
- 
 

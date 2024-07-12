@@ -11,13 +11,8 @@
 
 ## Cloud Security 
 
- | [Attack Vectors](https://ji-podhead.github.io/Web-And-CloudSecurity/Attack_Vectors)| [Attack Types](https://ji-podhead.github.io/Security/Attack_Types) |  [Tools](https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/Tools) |  [Analysis & Forensic](https://ji-podhead.github.io/Web-And-CloudSecurity/WebSecurity/Analysis) | 
- 
+| [***Attack Vectors***](https://ji-podhead.github.io/Web-And-CloudSecurity/AttackVectors/#cloud-bases-attack-vectors) | [***Tools***](https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity/Tools) | [***Continous Monitoring 🚧***](https://ji-podhead.github.io/Web-And-CloudSecurity/CloudSecurity/Monitoring) |
 
-
-
-
-- my firefox k8s bookmark folder grew so large that i decided to create a public list from this
 
 | Tool | Description | Purpose |
 |------|-------------|---------|
